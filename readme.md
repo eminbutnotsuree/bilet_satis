@@ -1,6 +1,6 @@
 # Bilet Satın Alma Platformu
 
-Güvenli ve çok rollü bir otobüs bileti satış sistemi. Bu proje, Sibervatan Yavuzlar Takımı'nın bir parçası olarak, modern web teknolojilerini ve güvenli kodlama prensiplerini uygulamalı olarak öğrenmek amacıyla geliştirilmiştir.
+Güvenli ve çok rollü bir otobüs bileti satış sistemi. Bu proje, modern web teknolojilerini ve güvenli kodlama prensiplerini uygulamalı olarak öğrenmek amacıyla geliştirilmiştir.
 
 
 ## ✨ Temel Özellikler
