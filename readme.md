@@ -35,7 +35,7 @@ Projenin çalışan bir kopyasını yerel makinenizde çalıştırmak için Dock
 
 1.  Depoyu klonlayın:
     ```bash
-    git clone https://github.com/KULLANICI_ADINIZ/bilet-satin-alma.git
+    git clone https://github.com/eminbutnotsuree/bilet-satin-alma.git
     cd bilet-satin-alma
     ```
 
