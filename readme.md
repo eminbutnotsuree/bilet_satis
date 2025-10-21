@@ -36,7 +36,7 @@ Projenin çalışan bir kopyasını yerel makinenizde çalıştırmak için Dock
 1.  Depoyu klonlayın:
     ```bash
     https://github.com/eminbutnotsuree/bilet_satis.git
-    cd bilet-satin-alma
+    cd bilet_satis
     ```
 
 2.  Docker Compose ile projeyi çalıştırın:
